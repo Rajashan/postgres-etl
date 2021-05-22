@@ -7,7 +7,7 @@ This project outlines a postgres based ETL pipeline for the fictional company sp
 To populate the database, run the following in succession:
 
     python create_tables.py
-    etl.py
+    python etl.py
 
 ## Additional info
 
